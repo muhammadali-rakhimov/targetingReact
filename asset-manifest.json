@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/targetingReact/static/css/main.d7c15251.chunk.css",
-    "main.js": "/targetingReact/static/js/main.1e37ea74.chunk.js",
-    "main.js.map": "/targetingReact/static/js/main.1e37ea74.chunk.js.map",
-    "runtime-main.js": "/targetingReact/static/js/runtime-main.c870b0b8.js",
-    "runtime-main.js.map": "/targetingReact/static/js/runtime-main.c870b0b8.js.map",
-    "static/js/2.50c9af2a.chunk.js": "/targetingReact/static/js/2.50c9af2a.chunk.js",
-    "static/js/2.50c9af2a.chunk.js.map": "/targetingReact/static/js/2.50c9af2a.chunk.js.map",
-    "index.html": "/targetingReact/index.html",
-    "static/css/main.d7c15251.chunk.css.map": "/targetingReact/static/css/main.d7c15251.chunk.css.map",
-    "static/js/2.50c9af2a.chunk.js.LICENSE.txt": "/targetingReact/static/js/2.50c9af2a.chunk.js.LICENSE.txt",
-    "static/media/person1.25a06189.png": "/targetingReact/static/media/person1.25a06189.png"
+    "main.css": "/static/css/main.d7c15251.chunk.css",
+    "main.js": "/static/js/main.1e37ea74.chunk.js",
+    "main.js.map": "/static/js/main.1e37ea74.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.91395f45.js",
+    "runtime-main.js.map": "/static/js/runtime-main.91395f45.js.map",
+    "static/js/2.50c9af2a.chunk.js": "/static/js/2.50c9af2a.chunk.js",
+    "static/js/2.50c9af2a.chunk.js.map": "/static/js/2.50c9af2a.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d7c15251.chunk.css.map": "/static/css/main.d7c15251.chunk.css.map",
+    "static/js/2.50c9af2a.chunk.js.LICENSE.txt": "/static/js/2.50c9af2a.chunk.js.LICENSE.txt",
+    "static/media/person1.25a06189.png": "/static/media/person1.25a06189.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c870b0b8.js",
+    "static/js/runtime-main.91395f45.js",
     "static/js/2.50c9af2a.chunk.js",
     "static/css/main.d7c15251.chunk.css",
     "static/js/main.1e37ea74.chunk.js"
