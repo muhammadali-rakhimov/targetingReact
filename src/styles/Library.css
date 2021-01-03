@@ -1,0 +1,23 @@
+.flex-item {
+  background-color: #f1f1f1;
+  padding: 10px;
+  flex: 80%;
+}
+
+@media screen and (min-width: 959px) and (max-width: 1024px) {
+  .flex-item {
+    flex: 75%;
+  }
+}
+
+@media screen and (min-width: 640px) and (max-width: 960px) {
+  .flex-item {
+    flex: 100%;
+  }
+}
+
+@media (max-width: 639px) {
+  .flex-item {
+    flex: 100%;
+  }
+}

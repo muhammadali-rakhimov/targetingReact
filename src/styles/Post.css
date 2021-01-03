@@ -1,0 +1,38 @@
+.blog {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.blog__image {
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  display: flex;
+}
+
+.blog__image img {
+  width: 95px;
+  height: 95px;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+@media (max-width: 320px) {
+  .blog__image {
+    display: flex;
+    align-items: center;
+  }
+}
+
+.blog__info {
+  padding: 10px;
+  width: 100%;
+}
+
+.blog__info h4 {
+  margin-bottom: 10px;
+}
+
+.blog__info div span {
+  margin-left: 5px;
+}

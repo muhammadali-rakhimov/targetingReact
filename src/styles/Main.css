@@ -1,0 +1,124 @@
+.flex-item-first {
+  background-color: #ffffff;
+  padding: 10px;
+  flex: 20%;
+}
+
+@media screen and (min-width: 959px) and (max-width: 1024px) {
+  .flex-item-first {
+    flex: 19%;
+  }
+}
+
+@media screen and (min-width: 640px) and (max-width: 960px) {
+  .flex-item-first {
+    flex: 100%;
+  }
+}
+
+@media (max-width: 639px) {
+  .flex-item-first {
+    flex: 100%;
+  }
+}
+
+.logoLink {
+  text-decoration: none;
+  color: #333;
+}
+
+.logoLink:hover {
+  color: #000;
+}
+
+.logoLink:active {
+  text-decoration: underline;
+  color: #000;
+}
+
+.logo {
+  text-align: center;
+  padding: 10px 0 10px 0;
+  font-size: 30px;
+  font-weight: bold;
+  border-bottom: 1px solid #ccc;
+}
+
+.logodecoration {
+  color: #333;
+  text-decoration: none;
+}
+
+.logodecoration:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+.navbar__link {
+  text-decoration: none;
+  color: #333;
+}
+
+.navbar__link:hover {
+  color: #000;
+  text-decoration: underline;
+}
+
+.navbar__link--active {
+  border-bottom: 3px solid #29b6f6;
+  /* transition: border-bottom 0.5s ease-in-out; */
+  background-color: red;
+}
+
+.settings {
+  margin-top: 30px;
+}
+
+.settings__modules,
+.settings__resources,
+.settings__library,
+.settings__configurations {
+  display: flex;
+  padding: 10px;
+}
+
+.settings__modules i {
+  margin-left: 2px;
+}
+
+.settings__modules p {
+  padding-left: 6px;
+}
+
+.settings__resources p {
+  padding-left: 5px;
+}
+
+.settings__library p {
+  padding-left: 7px;
+}
+
+.settings__configurations i {
+  margin-left: 2px;
+}
+
+.settings__configurations p {
+  padding-left: 7px;
+}
+
+.exit {
+  display: flex;
+  padding: 10px 0 10px 13px;
+  margin-top: 50px;
+}
+
+.exit p {
+  padding: 0 0 0 5px;
+}
+
+.additional {
+  width: 100%;
+  margin-top: 10px;
+  padding: 10px 10px 50px 10px;
+  background-color: #f0f1fc;
+}

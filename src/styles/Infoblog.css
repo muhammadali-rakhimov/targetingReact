@@ -1,0 +1,20 @@
+.infoblog__blog {
+  display: flex;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #aaa;
+}
+
+.infoblog__blog h4 {
+  width: 80%;
+  padding-right: 10px;
+}
+
+.infoblog__blog div {
+  width: 20%;
+}
+
+.infoblog__blog div span {
+  margin-left: 5px;
+}
